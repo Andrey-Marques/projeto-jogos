@@ -1,5 +1,5 @@
  p{
-    font-size: 50px;
+    font-size: 15px;
     color: aliceblue;
  }
  
@@ -7,19 +7,17 @@
  .fortnite {
     background-color: rgba(0, 0, 0, 0.8);
     border-style: solid;
-    border-width: 15px;
-    margin: 100px;
+    border-width: 5px;
+    margin: 50px;
     display: flex;
-    width: 100vh;
-
+    width: 50vw;
+    height: 15vw;
     box-sizing: border-box;
 }
       
 
 .fortnite img{
-    padding: 20px;
-    width: 20%;
-
+    padding: 10px;
 } 
 
 .descricao{
@@ -30,35 +28,35 @@
 
 
 .GodOfWar{
-    background-color: rgba(000,000,000,0.8);
+    background-color: rgba(0, 0, 0, 0.8);
     border-style: solid;
-    border-width: 15px;
-    margin: 100px;
+    border-width: 5px;
+    margin: 50px;
     display: flex;
-    width: 100vh;
-
+    width: 50vw;
+    height: 15vw;
     box-sizing: border-box;
 } 
 
  .GodOfWar img{
-    padding: 20px;
+    padding: 10px;
     width: 50%;
 }
 
  .GTA{
-    background-color: rgba(000,000,000,0.8);
+    background-color: rgba(0, 0, 0, 0.8);
     border-style: solid;
-    border-width: 15px;
-    margin: 100px;
+    border-width: 5px;
+    margin: 50px;
     display: flex;
-    width: 100vh;
-
+    width: 50vw;
+    height: 15vw;
     box-sizing: border-box;
 } 
 
 .GTA img{
-    padding: 20px;
-    width: 50%;
+    padding: 10px;
+    width: 17%;
 
     }
 
@@ -76,40 +74,39 @@
 .fifa{
     background-color: rgba(000,000,000,0.8);
     border-style: solid;
-    border-width: 15px;
-    margin: 100px;
+    border-width: 5px;
+    margin: 50px;
     display: flex;
-    width: 100vh;
-
+    width: 50vw;
+    height: 15vw;
     box-sizing: border-box;
 } 
 
 .fifa img{
-    padding: 20px;
+    padding: 10px;
     width: 20%;
 
     }
 
 div{
     border-color: rgb(181, 47, 47);
-    margin-left: 25vw;
+    margin-left: 23vw;
 }
 
 h5{
     color: rgb(255, 255, 255);
-    font-size: 50px;
+    font-size: 20px;
     display: inline-block;
     
 }
  .titulo h1{
     background-color: rgb(181, 47, 47);
     color: aliceblue;
-    font-size: 210px;
+    font-size: 40px;
     border-style: solid;
-    border-width: 20px;
+    border-width: 10px;
     border-color: black;
-    margin: 100px;
-    margin-bottom: 300px;
+    margin: 50px;
     display: flex;
     width: 100vh;
     justify-content: center;
